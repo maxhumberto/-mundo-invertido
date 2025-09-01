@@ -25,7 +25,7 @@ A proposta é criar uma experiência interativa com **tema invertido (light/dark
 ---
 
 ## 📸 Demonstração
-👉 [Acesse o projeto online aqui](https://maxhumberto.github.io/mundo-invertido/)  
+👉 [Acesse o projeto online aqui](https://maxhumberto.github.io/-mundo-invertido/)  
 
 ---
 
