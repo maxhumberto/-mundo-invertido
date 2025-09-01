@@ -32,4 +32,4 @@ A proposta é criar uma experiência interativa com **tema invertido (light/dark
 ## ⚙️ Como executar localmente
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/maxhumberto/mundo-invertido.git
+   git clone https://github.com/maxhumberto/-mundo-invertido.git
